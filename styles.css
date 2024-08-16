@@ -323,7 +323,7 @@ footer {
     justify-content: center;
     text-align: center;
     position: relative;
-    background-image: url('images/hero-background.jpg');
+    background-image: url('hero-background.jpg');
     background-size: cover;
     background-position: center;
     color: var(--white);
